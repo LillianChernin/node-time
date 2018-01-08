@@ -1,0 +1,27 @@
+{
+  "name": "node-time",
+  "version": "1.0.0",
+  "description": "Node-TIME (Moment and Chalk)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LillianChernin/node-time.git"
+  },
+  "keywords": [
+    "moment",
+    "chalk"
+  ],
+  "author": "Lillian Chernin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LillianChernin/node-time/issues"
+  },
+  "homepage": "https://github.com/LillianChernin/node-time#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "moment": "^2.20.1"
+  }
+}
